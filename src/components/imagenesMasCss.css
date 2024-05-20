@@ -1,0 +1,10 @@
+ .custom-container {
+    
+    margin: 10px;
+}
+.custom-img{
+    padding: 10px;
+}
+.custom-img:hover{
+    scale:1.1;
+}
